@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Joystick",
+        "price": 14999,
+        "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/e/l/el2072_l_40.png?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
+        "id": 1
+    },
+    {
+        "title": "Auriculares",
+        "price": 12499,
+        "thumbnail": "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-2-wireless-rd-1-sm.jpg",
+        "id": 2
+    },
+    {
+        "title": "Elden Ring",
+        "price": 12000,
+        "thumbnail": "https://i5.walmartimages.com/asr/4dffefab-52aa-4c80-b9a4-81fd7d57e4bb.05e1911bfdd62810a3fd776e07e02c6d.png",
+        "id": 3
+    }
+]
