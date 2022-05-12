@@ -11,7 +11,7 @@ app.get('/productos', async (req, res) => {
 })
 
 app.get('/productoRandom', async (req, res) => {
-    let listaProductos = await productos.getAll(Math.floor(Math.random() * 2)).then(res => res)
+    let listaProductos = await productos.getAll().then(res => res)
     let productoRandom = listaProductos[Math.floor(Math.random() * listaProductos.length)]
     res.send(productoRandom)
 })
